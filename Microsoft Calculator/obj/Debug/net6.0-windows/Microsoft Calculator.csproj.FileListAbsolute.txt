@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\bin\Debug\net6.0-windows\Microsoft Calculator.exe
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\bin\Debug\net6.0-windows\Microsoft Calculator.deps.json
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\bin\Debug\net6.0-windows\Microsoft Calculator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\bin\Debug\net6.0-windows\Microsoft Calculator.dll
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\bin\Debug\net6.0-windows\Microsoft Calculator.pdb
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.g.resources
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.dll
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\refint\Microsoft Calculator.dll
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.pdb
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\Microsoft Calculator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\ref\Microsoft Calculator.dll
+C:\Users\Administrator\source\repos\Microsoft Calculator\Microsoft Calculator\obj\Debug\net6.0-windows\App.baml
